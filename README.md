@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello, I'm Monu Jakhar 👋
 
-<!--
-**monujakhar/monujakhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Assistant Professor | Computer Science & Engineering | AI/ML | Data Science
 
-Here are some ideas to get you started:
+- 👨‍🏫 Assistant Professor & Computer Science Educator
+- 💻 Interested in Artificial Intelligence, Machine Learning & Data Science
+- 📚 Teaching subjects such as Machine Learning, Deep Learning & Programming
+- 🔬 Interested in Research, Innovation and Emerging Technologies
+- 🎓 Passionate about simplifying complex technical concepts through practical learning
+- 📺 I create educational content to help students learn Computer Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Connect with Me
+
+- 📺 YouTube: [Jakhar Classes](https://www.youtube.com/@Jakhar_classes)
+- 💼 LinkedIn: [Monu Jakhar](https://www.linkedin.com/in/monu-jakhar/)
+
