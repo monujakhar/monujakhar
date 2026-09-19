@@ -1,8 +1,7 @@
 # Hello, I'm Monu Jakhar 👋
 
-> Assistant Professor | Computer Science & Engineering | AI/ML | Data Science
 
-- 👨‍🏫 Assistant Professor & Computer Science Educator
+- 👨‍🏫 Assistant Professor (CSE)
 - 💻 Interested in Artificial Intelligence, Machine Learning & Data Science
 - 📚 Teaching subjects such as Machine Learning, Deep Learning & Programming
 - 🔬 Interested in Research, Innovation and Emerging Technologies
